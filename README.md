@@ -3,6 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konahyeon&show_icons=true&theme=highcontrast)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skgus0402)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Konahyeon&show_icons=true&locale=en&layout=compact" alt="<username>" /></p>
 
 <!---
 Konahyeon/Konahyeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
