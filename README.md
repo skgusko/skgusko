@@ -1,6 +1,11 @@
 
 <div align="center">
+<!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F04F&center=true&vCenter=true&width=600&lines=Welcome%2C+I'm+Nahyeon+Ko+%F0%9F%99%8B" alt="Typing SVG" /></a>
+-->
+ <a href="https://github.com/devxb/gitanimals">
+ <img src="https://render.gitanimals.org/farms/{skgusko}"/>
+</a>
 </div>
 <br>
 <!---
